@@ -1,0 +1,6 @@
+{
+  "name": "SIGAP-PERKIM Kab. Konawe - Portal Bencana Perumahan",
+  "description": "Sistem Informasi Tanggap Bencana & Pemulihan Perumahan Dinas Perumahan dan Kawasan Permukiman (DISPERKIM) Kabupaten Konawe, Sulawesi Tenggara: Pendataan Rumah Terdampak Banjir DAS Konaweha, Longsor & Gempa, serta Penyaluran Stimulan Perumahan.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
